@@ -9,6 +9,11 @@ title: Home
 
 Welcome to my portfolio website.
 
+## Learn More
+
+- [About Me](about.md)
+- [Projects](projects.md)
+
 I am a Business Data Analyst passionate about transforming complex data into clear, actionable insights. My work focuses on data visualization, business intelligence, machine learning, and ETL processes.
 
 Currently, I work as a Junior Data Analyst in the financial services industry, where I build enterprise Tableau dashboards and develop SQL solutions to support business decision-making.
