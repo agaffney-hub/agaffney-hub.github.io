@@ -18,6 +18,8 @@ I am a Business Data Analyst passionate about transforming complex data into cle
 
 Currently, I work as a Junior Data Analyst in the financial services industry, where I build enterprise Tableau dashboards and develop SQL solutions to support business decision-making.
 
+### Blog Posts
+
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
 {% endfor %}
