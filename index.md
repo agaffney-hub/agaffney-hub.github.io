@@ -39,8 +39,3 @@ Exploratory analysis of Airbnb listings to identify pricing trends, demand hotsp
 #### NFL Injury Analysis
 
 Analysis of NFL injury trends during the 2017 season using Python and pandas to identify patterns across teams, positions, and field conditions.
-
-## Learn More
-
-- [About Me](about.md)
-- [Projects](projects.md)
