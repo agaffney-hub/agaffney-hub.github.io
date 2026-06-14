@@ -3,12 +3,6 @@ layout: default
 title: Home
 ---
 
-# Amy Gaffney
-
-## Business Data Analyst
-
-Welcome to my portfolio website.
-
 ## Learn More
 
 - [About Me](about.md)
