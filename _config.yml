@@ -1,8 +1,13 @@
 theme: jekyll-theme-minimal
-title: "Amy Gaffney: Data Analyst"
-description: "A passionate data storyteller."
-# Sidebar / site links
+
+title: "Amy Gaffney"
+description: "Business Data Analyst focused on data storytelling, visualization, and business intelligence."
+
+logo: /assets/img/headshot.jpg
+
 social_links:
   - name: LinkedIn
     url: https://www.linkedin.com/in/-amygaffney/
     icon: linkedin
+
+github_username: agaffney-hub
