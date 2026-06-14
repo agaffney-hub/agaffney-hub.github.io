@@ -3,6 +3,19 @@ layout: post
 title: "Airbnb Market Insights Project"
 ---
 
-One of my favorite analytics projects explored Airbnb listing data to identify pricing trends and demand patterns.
+[View Project Repository](https://github.com/agaffney-hub/airbnb-listing-insights)
 
-Using exploratory data analysis techniques, I examined factors associated with highly rated listings and identified characteristics that contribute to successful properties.
+### Objective
+Analyze Airbnb listing data to identify the drivers of pricing and guest satisfaction.
+
+### Methods
+Data cleaning, exploratory data analysis, correlation analysis, and visualization.
+
+### Results
+Identified key listing characteristics associated with higher review scores and premium pricing.
+
+### Technologies
+Python • Pandas • Seaborn • Jupyter Notebook
+
+### Source Code
+https://github.com/agaffney-hub/airbnb-listing-insights
