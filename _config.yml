@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 title: "Amy Gaffney"
 description: "Business Data Analyst focused on data storytelling, visualization, and business intelligence."
 
-logo: /assets/headshot.jpg
+logo: headshot.jpg
 
 github_username: agaffney-hub
 
