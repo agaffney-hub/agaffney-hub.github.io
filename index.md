@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 ### Ambulance Coverage and Hospitals Accessible
-<iframe src="https://arcg.is/1y5HKr4" width="100%" height="600px"
+<iframe src="https://sdsugeo.maps.arcgis.com/apps/dashboards/3329512e13ec4e16a0c4d38dbb4904ff" width="100%" height="600px"
 frameborder="0"></iframe>
 
 ## Learn More
